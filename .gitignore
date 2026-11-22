@@ -1,0 +1,11 @@
+# LaTeX build intermediates
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Local Preprints.org template files
+/Preprint/Definitions/
+/Preprint/preprints-template.zip
