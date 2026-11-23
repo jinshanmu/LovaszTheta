@@ -5,7 +5,3 @@
 *.log
 *.out
 *.synctex.gz
-
-# Local Preprints.org template files
-/Preprint/Definitions/
-/Preprint/preprints-template.zip
